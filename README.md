@@ -13,8 +13,8 @@ With an objective to gather insights on the factors that are impacting the persi
 
 ## Task:
 
-Problem understanding\\
-Data Understanding\\
+*Problem understanding
+*Data Understanding
 Data Cleaning and Feature engineering\\
 Model Development\\
 Model Selection\\
