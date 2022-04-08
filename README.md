@@ -15,14 +15,14 @@ With an objective to gather insights on the factors that are impacting the persi
 
 * Problem understanding
 * Data Understanding
-Data Cleaning and Feature engineering\\
-Model Development\\
-Model Selection\\
-Model Evaluation\\
-Report the accuracy, precision and recall of both the class of target variable\\
-Report ROC-AUC as well\\
-Deploy the model\\
-Explain the challenges and model selection\\
+* Data Cleaning and Feature engineering
+* Model Development
+* Model Selection
+* Model Evaluation
+* Report the accuracy, precision and recall of both the class of target variable
+* Report ROC-AUC as well
+* Deploy the model
+* Explain the challenges and model selection
 
 # Weeks
 1. [Week7](https://github.com/And2300/Healthcare_PersistencyDrug/tree/main/Week%207): Problem description
