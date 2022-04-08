@@ -9,12 +9,12 @@ One of the challenge for all Pharmaceutical companies is to understand the persi
 
 With an objective to gather insights on the factors that are impacting the persistency, build a classification for the given dataset.
 
- \textbr{Target Variable}: Persistency_Flag
+**Target Variable:** Persistency_Flag
 
 ## Task:
 
-*Problem understanding
-*Data Understanding
+* Problem understanding
+* Data Understanding
 Data Cleaning and Feature engineering\\
 Model Development\\
 Model Selection\\
