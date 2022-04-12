@@ -27,7 +27,7 @@ With an objective to gather insights on the factors that are impacting the persi
 # Weeks
 1. [Week7](https://github.com/And2300/Healthcare_PersistencyDrug/tree/main/Week%207): Problem description
 2. [Week8](https://github.com/And2300/Healthcare_PersistencyDrug/tree/main/Week%208): First data analysis
-3. [Week9]
+3. [Week9](): Second data analysis
 4. [Week10]
 5. [Week11]
 6. [Week12]
